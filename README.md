@@ -1,2 +1,2 @@
 # GRC-Projects
-Government, Risk and Compliance Projects
+Governance, Risk and Compliance Projects
